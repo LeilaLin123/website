@@ -51,7 +51,7 @@ class DesignSection extends I18nComponent {
                     >
                       技术白皮书
                     </a>
-                    。但对最新的3.0版本，我们选择直接发布更具技术细节的
+                    。但对后续版本，我们选择直接发布更具技术细节的
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
@@ -73,13 +73,13 @@ class DesignSection extends I18nComponent {
                     >
                       Whitepaper
                     </a>{" "}
-                    for version 1.0, 1.5, and 2.0. For 3.0, however, we’ve
-                    decided to share our{" "}
+                    for version 1.0, 1.5, and 2.0. For newer versions, however,
+                    we’ve decided to share our{" "}
                     <a
                       className="highlight underline"
                       href="https://github.com/Loopring/protocols/blob/master/packages/loopring_v3/DESIGN.md"
                     >
-                      Design Doc
+                      Design Docs
                     </a>{" "}
                     as it provides a lot more granular details than a
                     whitepaper. Much of the general background information,

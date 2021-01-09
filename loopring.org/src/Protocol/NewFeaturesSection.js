@@ -2,13 +2,13 @@ import React from "react";
 
 import { withLocalize } from "react-localize-redux";
 import { Translate } from "react-localize-redux";
-import englishTranslation from "./i18n/DeploymentOptionsSection.en.json";
-import chineseTranslation from "./i18n/DeploymentOptionsSection.zh.json";
+import englishTranslation from "./i18n/NewFeaturesSection.en.json";
+import chineseTranslation from "./i18n/NewFeaturesSection.zh.json";
 import JsonI18nComponent from "../Components/JsonI18nComponent";
 
-import "./DeploymentOptionsSection.scss";
+import "./NewFeaturesSection.scss";
 
-class DeploymentOptionsSection extends JsonI18nComponent {
+class NewFeaturesSection extends JsonI18nComponent {
   constructor(props) {
     super(props, englishTranslation, chineseTranslation);
   }
@@ -20,9 +20,9 @@ class DeploymentOptionsSection extends JsonI18nComponent {
         <div className="container">
           <div className="columns is-centered">
             <div data-aos="fade-up" className="column has-text-centered  is-6">
-              <h1>{this.state.I.headingDeployment}</h1>
+              <h1>{this.state.I.headingNewFeatures}</h1>
               <p className="has-text-left">
-                {this.state.I.headingDeploymentMore}
+                {this.state.I.headingNewFeaturesMore}
               </p>
             </div>
           </div>
@@ -51,4 +51,4 @@ class DeploymentOptionsSection extends JsonI18nComponent {
   }
 }
 
-export default DeploymentOptionsSection;
+export default NewFeaturesSection;

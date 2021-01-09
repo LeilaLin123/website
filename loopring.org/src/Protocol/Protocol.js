@@ -4,7 +4,7 @@ import Header from "../Components/Header";
 import Footer from "../Components/Footer";
 
 import PerformanceSection from "./PerformanceSection";
-import DeploymentOptionsSection from "./DeploymentOptionsSection";
+import NewFeaturesSection from "./NewFeaturesSection";
 import DesignSection from "./DesignSection";
 import ConfigurationSection from "./ConfigurationSection";
 
@@ -19,7 +19,7 @@ class Protocol extends React.Component {
         <Header />
         <PerformanceSection />
         <DesignSection />
-        <DeploymentOptionsSection />
+        <NewFeaturesSection />
         <Ceremony />
         <Footer />
       </div>

@@ -7,18 +7,17 @@
       "url": "mailto:daniel@loopring.org"
     },
 
-
     {
       "name": "Steve GUO",
       "title": "CTO",
       "url": "mailto:steve@loopring.io"
     },
-        {
+    {
       "name": "Jay ZHOU",
       "title": "COO",
       "url": "mailto:jay@loopring.org"
     },
-        {
+    {
       "name": "Brecht Devos",
       "title": "Chief Architect",
       "url": "mailto:brecht@loopring.org"
@@ -33,7 +32,7 @@
       "title": "Head of Business",
       "url": "mailto:matthew@loopring.io"
     },
-        {
+    {
       "name": "Terence Lam",
       "title": "VP, Hong Kong",
       "url": "mailto:terence@loopring.io"
@@ -89,21 +88,22 @@
       "title": "Developer",
       "url": "mailto:ruby@loopring.io"
     },
-            {
+    {
       "name": "Di ZHANG",
       "title": "Developer",
       "url": "mailto:zhangdi@loopring.io"
     },
-                {
+    {
       "name": "Frank ZHANG",
       "title": "Developer",
       "url": "mailto:frankzhang@loopring.io"
-    },{
-          "name": "Yifei CHEN",
+    },
+    {
+      "name": "Yifei CHEN",
       "title": "Developer",
       "url": "mailto:yifei@loopring.io"
     },
-        {
+    {
       "name": "Yuqi NIE",
       "title": "Designer",
       "url": "mailto:yuqi@loopring.io"
