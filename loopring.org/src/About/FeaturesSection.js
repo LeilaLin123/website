@@ -93,8 +93,10 @@ class FeaturesSection extends I18nComponent {
             </div>
 
             <div data-aos="fade-up" className="column is-2 is-offset-2">
-              <span className="has-leading-thick-arrow">Loopring 3.6</span>{" "}
-              ···························
+              <span className="has-leading-thick-arrow deprecated">
+                <Translate id="loopring" /> 3.0 <Translate id="deprecated" />
+              </span>
+              ······
             </div>
             <div data-aos="fade-up" className="column column-features is-6">
               <span className="tag deprecated">
@@ -130,6 +132,38 @@ class FeaturesSection extends I18nComponent {
               </span>
               <span className="tag highlight">
                 <Translate id="features.upgradability" />
+              </span>
+            </div>
+
+            <div data-aos="fade-up" className="column is-2 is-offset-2">
+              <span className="has-leading-thick-arrow">Loopring 3.6</span>{" "}
+              ······
+            </div>
+            <div data-aos="fade-up" className="column column-features is-6">
+              <span className="tag deprecated">
+                <Translate id="features.lrcBurning" />
+              </span>
+              <span className="tag deprecated">
+                <Translate id="features.lrcStaking" />
+              </span>
+              <span className="tag highlight">
+                <Translate id="features.amm" />
+              </span>
+              <span className="tag highlight">
+                <Translate id="features.fastWithdrawal" />
+              </span>
+              <span className="tag highlight">
+                <Translate id="features.fastBlock" />
+              </span>
+              <span className="tag highlight">
+                <Translate id="features.newLRCEcnomics" />
+              </span>
+              <span className="tag highlight">
+                <Translate id="features.conditionalTx" />
+              </span>
+
+              <span className="tag highlight">
+                <Translate id="features.insurance" />
               </span>
             </div>
           </div>

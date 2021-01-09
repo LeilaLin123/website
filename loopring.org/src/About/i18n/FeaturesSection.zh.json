@@ -13,6 +13,13 @@
     "lrcStaking": "LRC质押经济",
     "highThroughput": "高吞吐量",
     "lowCost": "低成本",
-    "upgradability": "可升级性"
+    "upgradability": "可升级性",
+    "amm": "AMM闪兑",
+    "fastWithdrawal": "快速提现",
+    "fastBlock": "加速打块",
+    "agent":"代理机制",
+    "newLRCEcnomics": "新代币经济模型",
+    "conditionalTx": "条件交易",
+    "insurance": "协议保险"
   }
 }

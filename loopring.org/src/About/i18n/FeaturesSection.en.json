@@ -13,6 +13,13 @@
     "lrcStaking": "LRC-Staking",
     "highThroughput": "High-Throughput",
     "lowCost": "Low-Cost",
-    "upgradability": "Upgradability"
+    "upgradability": "Upgradability",
+    "amm": "AMM",
+    "fastWithdrawal": "Fast Withdrawal",
+    "fastBlock": "Faster Block Submission",
+    "agent":"Agents",
+    "newLRCEcnomics": "New Tokenomics",
+    "conditionalTx": "Conditional Transactions",
+    "insurance": "Insurance"
   }
 }
