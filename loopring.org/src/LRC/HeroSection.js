@@ -18,11 +18,14 @@ class HeroSection extends I18nComponent {
         <div className="columns is-multiline">
           <div className="column is-12 is-unselectable hero has-text-din">
             <div className="container">
-              <div data-aos="fade-up" className="text">
-                <Translate id="buyAndStake" />{" "}
+              <div data-aos="fade-up" className="text has-text-centered">
                 <span className="symbol">LRC</span>
+                <Translate id="buyAndStake" />{" "}
               </div>
-              <div data-aos="fade-up" className="text smaller">
+              <div
+                data-aos="fade-up"
+                className="text smaller has-text-centered"
+              >
                 <Translate id="buyAndStakeTo" />
               </div>
             </div>

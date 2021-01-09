@@ -26,7 +26,7 @@ class StakingSection extends JsonI18nComponent {
             <div key="idx" className="columns is-centered">
               <div
                 data-aos="fade-up"
-                className="column  is-2 has-text-right has-text-centered-mobile"
+                className="column has-text-din is-2 has-text-right has-text-centered-mobile"
               >
                 <div className="content">
                   <div className="category has-text-centered is-centered is-unselectable">

@@ -7,9 +7,7 @@
     "preparing": "正在准备"
   },
   "morePeople": "我们正在邀请更多人参与该仪式。",
-  "instructions": [
-    "以下列表显示愿意继续参与路印多方计算的朋友："
-  ],
+  "instructions": ["以下列表显示愿意继续参与路印多方计算的朋友："],
   "participants": {
     "phase1": [
       {
