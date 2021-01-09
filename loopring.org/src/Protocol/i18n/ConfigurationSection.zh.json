@@ -2,7 +2,7 @@
   "heading": "协议参数",
   "constants": {
     "heading": "协议全局不变量",
-    "remark": "这些不变量任何人和机构都无法修改，是所有基于路印协议3.0的交易所共享的全局设置。",
+    "remark": "这些不变量任何人和机构都无法修改，是所有基于路印协议3.6的交易所共享的全局设置。",
     "items": [
       {
         "name": "MAX_PROOF_GENERATION_TIME_IN_SECONDS",

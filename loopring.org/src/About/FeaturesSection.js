@@ -93,7 +93,7 @@ class FeaturesSection extends I18nComponent {
             </div>
 
             <div data-aos="fade-up" className="column is-2 is-offset-2">
-              <span className="has-leading-thick-arrow">Loopring 3.0</span>{" "}
+              <span className="has-leading-thick-arrow">Loopring 3.6</span>{" "}
               ···························
             </div>
             <div data-aos="fade-up" className="column column-features is-6">

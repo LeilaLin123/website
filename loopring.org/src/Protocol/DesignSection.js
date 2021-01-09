@@ -93,21 +93,21 @@ class DesignSection extends I18nComponent {
                 {this.isChinese() ? (
                   <div>
                     <p>
-                      路印协议3.0的核心设计目标包括两个：第一是高安全性，第二是高性能。协议设计的很多方面，都是围绕着在各种可能的情况下，为用户提现自己充值的资产提供各种保障。这种保障允许用户在极端情况下，仅提供默克尔证明，不依靠于交易所的任何动作，就可以将资产全部取出。而默克尔证明，则可以通过区块链上的数据可用性计算得到。
+                      路印协议3.6的核心设计目标包括两个：第一是高安全性，第二是高性能。协议设计的很多方面，都是围绕着在各种可能的情况下，为用户提现自己充值的资产提供各种保障。这种保障允许用户在极端情况下，仅提供默克尔证明，不依靠于交易所的任何动作，就可以将资产全部取出。而默克尔证明，则可以通过区块链上的数据可用性计算得到。
                     </p>
                     <p>
-                      为了提高吞吐量，并降低清结算成本，路印协议3.0将几乎全部的计算都迁移到区块链外完成。这种计算会更新中继维护的一棵四叉默克尔树，用以保存每个用户每个币种的余额，以及每个订单的成交历史。
+                      为了提高吞吐量，并降低清结算成本，路印协议3.6将几乎全部的计算都迁移到区块链外完成。这种计算会更新中继维护的一棵四叉默克尔树，用以保存每个用户每个币种的余额，以及每个订单的成交历史。
                       中继批量处理几十到几万个充值提现和交易清结算等请求，并将批量更新后的树根上链。为了保障中继的计算更新方式严格遵循协议的规则，中继必须在一定时间内提供批量处理相关的零知识证明。
                     </p>
 
                     <p>
-                      路印协议3.0的安全性、高吞吐量、和低成本证明了零知卷叠（zkRollup）思路是去中心化应用扩容的最佳方式之一。二层协议消极依靠底层公有链来扩容是不可取的。
+                      路印协议3.6的安全性、高吞吐量、和低成本证明了零知卷叠（zkRollup）思路是去中心化应用扩容的最佳方式之一。二层协议消极依靠底层公有链来扩容是不可取的。
                     </p>
                   </div>
                 ) : (
                   <div>
                     <p>
-                      We designed Loopring 3.0 with two major objectives in
+                      We designed Loopring 3.6 with two major objectives in
                       mind: Security and Performance. The protocol ensures that
                       users can withdraw their assets under all circumstances.
                       In the worst-case scenario, users can still withdraw their
@@ -118,7 +118,7 @@ class DesignSection extends I18nComponent {
                     </p>
                     <p>
                       To significantly improve throughput and lower settlement
-                      cost, Loopring 3.0 migrates most computations off-chain
+                      cost, Loopring 3.6 migrates most computations off-chain
                       and uses the underlying blockchain as a data and a ZKP
                       verification layer. User balances and order trading
                       histories are all organized in an off-chain Quad-Merkle
