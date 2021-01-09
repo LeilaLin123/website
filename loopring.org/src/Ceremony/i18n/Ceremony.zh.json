@@ -2,45 +2,40 @@
   "heading1": "零知可信设置",
   "heading2": "多方计算仪式",
   "status": {
-    "running": "3.0的多方计算已完成预定的15轮计算目标。",
+    "running": "路印协议3.6的多方计算已开启，欢迎参与。",
     "completed": "已经结束",
     "preparing": "正在准备"
   },
   "morePeople": "我们正在邀请更多人参与该仪式。",
   "instructions": [
-    "后续计算会根据需求进行。以下列表显示愿意继续参与路印多方计算的朋友："
+    "以下列表显示愿意继续参与路印多方计算的朋友："
   ],
   "participants": {
     "phase1": [
       {
         "name": "Brecht Devos",
-        "org": "Loopring",
-        "url": "https://github.com/Brechtpd",
-        "hash": "0xfdee0b357cc092de04b6ec7eeb3631fbcd741b17b996bd24f3f53d4c89edaaca"
+        "org": "路印科技",
+        "url": "https://github.com/Brechtpd"
       },
       {
-        "name": "Steve Guo",
-        "org": "Loopring",
-        "url": "https://github.com/letsgoustc",
-        "hash": "0x8ffdb4d916eb885a59198430f5e3a75fe8f3492cfc1c5afc70f90b497ba7c4f1"
+        "name": "郭雄辉",
+        "org": "路印科技",
+        "url": "https://github.com/letsgoustc"
       },
       {
-        "name": "Daniel Wang",
-        "org": "Loopring",
-        "url": "https://twitter.com/daniel_loopring",
-        "hash": "0x07eb94fe191c3181e80111c969d517679628986ab153a19bdc8260610511ea84"
+        "name": "王东",
+        "org": "路印科技",
+        "url": "https://twitter.com/daniel_loopring"
       },
       {
-        "name": "Kongliang Zhong",
-        "org": "Loopring",
-        "url": "",
-        "hash": ""
+        "name": "钟孔亮",
+        "org": "路印科技",
+        "url": "mailto:kongliang@loopring.io"
       },
       {
-        "name": "Hoss Ma",
-        "org": "Loopring",
-        "url": "",
-        "hash": ""
+        "name": "马超",
+        "org": "路印科技",
+        "url": "mailto:hoss@loopring.io"
       }
     ],
     "done": [],
@@ -48,9 +43,8 @@
     "waiting": [
       {
         "name": "Vitalik Buterin",
-        "org": "Ethereum Foundation",
-        "url": "https://vitalik.ca/",
-        "hash": "000000000000000000000000000000000000000000000000000000000000000000"
+        "org": "以太坊基金会",
+        "url": "https://twitter.com/VitalikButerin"
       }
     ]
   },

@@ -69,19 +69,13 @@ class Participant extends React.Component {
           " columns setup-participant  is-mobile is-centered is-multiline"
         }
       >
-        <div className="column has-text-left is-6-mobile is-2-tablet">
-          {this.props.name}
-        </div>
+        <div className="column has-text-left is-6">{this.props.name}</div>
 
-        <div className="column has-text-right has-text-left-tablet is-6-mobile  is-2-tablet">
+        <div className="column has-text-right has-text-left-tablet is-4">
           {this.props.org}
         </div>
 
-        <div className="column has-text-left has-text-center-tablet is-10-mobile is-6-tablet">
-          <div className="hash">{this.state.hash}</div>
-        </div>
-
-        <div className="column has-text-right is-2-mobile">
+        <div className="column has-text-right is-2">
           <FontAwesomeIcon
             className="icon"
             spin={this.state.isRunning}

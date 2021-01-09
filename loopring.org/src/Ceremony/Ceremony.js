@@ -23,7 +23,7 @@ class Ceremony extends JsonI18nComponent {
 
     return (
       <div className="page-ceremony">
-        <section className="section section-terminal is-small">
+        <section className="section section-terminal is-medium">
           <div className="container">
             <div className="columns is-multiline is-centered">
               <div
@@ -47,14 +47,17 @@ class Ceremony extends JsonI18nComponent {
                   <h2>{status}</h2>
                 </div>
               </div>
-              <div data-aos="fade-up" className="column has-text-centered is-8">
+              <div
+                data-aos="fade-up"
+                className="column has-text-centered is-5"
+                style={{ paddingBottom: "60px" }}
+              >
                 {this.state.I.participants.phase1.map((participant, idx) => (
                   <Participant
                     key={idx}
                     cat={participant.cat}
                     name={participant.name}
                     org={participant.org}
-                    hash={participant.hash}
                     status="done"
                   />
                 ))}
@@ -76,7 +79,6 @@ class Ceremony extends JsonI18nComponent {
                     cat={participant.cat}
                     name={participant.name}
                     org={participant.org}
-                    hash={participant.hash}
                     status="done"
                   />
                 ))}
@@ -87,7 +89,6 @@ class Ceremony extends JsonI18nComponent {
                     cat={participant.cat}
                     name={participant.name}
                     org={participant.org}
-                    hash={participant.hash}
                     status="running"
                   />
                 ))}
@@ -98,7 +99,6 @@ class Ceremony extends JsonI18nComponent {
                     cat={participant.cat}
                     name={participant.name}
                     org={participant.org}
-                    hash={participant.hash}
                     status="waiting"
                   />
                 ))}
