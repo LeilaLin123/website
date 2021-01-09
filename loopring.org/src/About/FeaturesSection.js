@@ -30,7 +30,7 @@ class FeaturesSection extends I18nComponent {
               <span className="has-leading-thick-arrow deprecated">
                 <Translate id="loopring" /> 1.0 <Translate id="deprecated" />
               </span>
-              ······
+              ·· ····
             </div>
             <div data-aos="fade-up" className="column column-features is-6">
               <span className="tag highlight">
@@ -145,6 +145,19 @@ class FeaturesSection extends I18nComponent {
               </span>
               <span className="tag deprecated">
                 <Translate id="features.lrcStaking" />
+              </span>
+              <span className="tag ">
+                <Translate id="features.tradeTokenAsFee" />
+              </span>
+              <span className="tag ">zkRollup</span>
+              <span className="tag ">
+                <Translate id="features.highThroughput" />
+              </span>
+              <span className="tag ">
+                <Translate id="features.lowCost" />
+              </span>
+              <span className="tag ">
+                <Translate id="features.upgradability" />
               </span>
               <span className="tag highlight">
                 <Translate id="features.amm" />

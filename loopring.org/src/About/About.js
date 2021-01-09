@@ -21,8 +21,7 @@ class About extends React.Component {
         <OverviewSection />
         <VersionsSection />
         <FeaturesSection />
-        {/* <MediaSection />*/}
-        <HacksSection />
+        {/* <HacksSection />*/}
         <Footer />
       </div>
     );
