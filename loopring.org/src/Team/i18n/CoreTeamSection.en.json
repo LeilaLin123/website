@@ -1,96 +1,122 @@
 {
-  "heading": "Core Team",
+  "heading": "核心团队",
   "members": [
     {
       "name": "Daniel WANG",
       "title": "Founder and CEO",
       "url": "mailto:daniel@loopring.org"
     },
+
+
     {
+      "name": "Steve GUO",
+      "title": "CTO",
+      "url": "mailto:steve@loopring.io"
+    },
+        {
       "name": "Jay ZHOU",
-      "title": "Co-founder, COO",
+      "title": "COO",
       "url": "mailto:jay@loopring.org"
     },
-    {
+        {
       "name": "Brecht Devos",
       "title": "Chief Architect",
       "url": "mailto:brecht@loopring.org"
     },
     {
-      "name": "Steve GUO",
-      "title": "CTO",
-      "url": "mailto:steve@loopring.org"
-    },
-    {
       "name": "Hoss MA",
       "title": "Chief Scientist",
-      "url": "mailto:hoss@loopring.org"
+      "url": "mailto:hoss@loopring.io"
     },
     {
       "name": "Matthew Finestone",
       "title": "Head of Business",
-      "url": "mailto:matthew@loopring.org"
+      "url": "mailto:matthew@loopring.io"
+    },
+        {
+      "name": "Terence Lam",
+      "title": "VP, Hong Kong",
+      "url": "mailto:terence@loopring.io"
     },
     {
-      "name": "Freeman ZONG",
-      "title": "Protocol Developer",
-      "url": "mailto:freeman@loopring.org"
+      "name": "Kongliang ZHONG",
+      "title": "Developer",
+      "url": "mailto:kongliang@loopring.io"
     },
 
     {
       "name": "Hongyu YU",
       "title": "Developer",
-      "url": "mailto:hongyu@loopring.org"
-    },
-    {
-      "name": "Eric YANG",
-      "title": "Engineer",
-      "url": "mailto:yangli@loopring.org"
+      "url": "mailto:hongyu@loopring.io"
     },
     {
       "name": "Yadong LI",
       "title": "Developer",
-      "url": "mailto:yadong@loopring.org"
+      "url": "mailto:yadong@loopring.io"
+    },
+    {
+      "name": "Li YANG",
+      "title": "Developer",
+      "url": "mailto:yangli@loopring.io"
     },
     {
       "name": "Xiaolu WU",
       "title": "Developer",
-      "url": "mailto:xiaolu@loopring.org"
+      "url": "mailto:xiaolu@loopring.io"
     },
     {
       "name": "Yongfeng DU",
       "title": "Developer",
-      "url": "mailto:yongfeng@loopring.org"
+      "url": "mailto:yongfeng@loopring.io"
     },
     {
       "name": "Yanyan LAI",
       "title": "Developer",
-      "url": "mailto:laiyanyan@loopring.org"
+      "url": "mailto:yanyan@loopring.io"
     },
     {
       "name": "Yue WANG",
       "title": "Developer",
-      "url": "mailto:wangyue@loopring.org"
+      "url": "mailto:wangyue@loopring.io"
     },
     {
-      "name": "Sheng CHEN",
+      "name": "Adam CHEN",
       "title": "Developer",
-      "url": "mailto:chensheng@loopring.org"
+      "url": "mailto:chensheng@loopring.io"
     },
     {
       "name": "Ruby QIN",
       "title": "Developer",
-      "url": "mailto:ruby@loopring.org"
+      "url": "mailto:ruby@loopring.io"
+    },
+            {
+      "name": "Di ZHANG",
+      "title": "Developer",
+      "url": "mailto:zhangdi@loopring.io"
+    },
+                {
+      "name": "Frank ZHANG",
+      "title": "Developer",
+      "url": "mailto:frankzhang@loopring.io"
+    },{
+          "name": "Yifei CHEN",
+      "title": "Developer",
+      "url": "mailto:yifei@loopring.io"
+    },
+        {
+      "name": "Yuqi NIE",
+      "title": "Designer",
+      "url": "mailto:yuqi@loopring.io"
     },
     {
       "name": "Leila LIN",
-      "title": "HR & Administration",
-      "url": "mailto:leila@loopring.org"
+      "title": "Community Manager",
+      "url": "mailto:leila@loopring.io"
     },
     {
-      "name": "Xuming ZHANG",
-      "title": "Product & Community Operation",
-      "url": "mailto:xuming@loopring.org"
+      "name": "Ace ZHANG",
+      "title": "Community Manager",
+      "url": "mailto:ace@loopring.io"
     }
   ]
 }

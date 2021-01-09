@@ -106,6 +106,18 @@
         "org": "Gitcoin",
         "url": "https://gitcoin.co/issue/Loopring/trusted_setup/11/3700",
         "hash": "0x5950c73cfb47e041ccd91c5a4c62e3ddc2f004c4d3e98bbd5bb596a4ef385df4"
+      },
+            {
+        "name": "Kongliang Zhong",
+        "org": "Loopring",
+        "url": "",
+        "hash": ""
+      },
+                  {
+        "name": "Hoss Ma",
+        "org": "Loopring",
+        "url": "",
+        "hash": ""
       }
     ],
     "done": [],
